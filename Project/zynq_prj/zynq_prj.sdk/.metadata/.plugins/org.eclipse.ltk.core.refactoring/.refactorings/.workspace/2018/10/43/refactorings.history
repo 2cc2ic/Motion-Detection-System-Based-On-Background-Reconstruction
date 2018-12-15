@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete 5 resources" deleteContents="true" description="Delete 5 resources" element1="/AXI_DMA_OV7725" element2="/AXI_DMA_OV7725_bsp" element3="/system_wrapper_hw_platform_0" element4="/system_wrapper_hw_platform_1" element5="/system_wrapper_hw_platform_2" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="5" stamp="1540644800006"/>
+</session>

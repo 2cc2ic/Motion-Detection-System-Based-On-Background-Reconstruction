@@ -1,0 +1,37 @@
+Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2015.4 (win64) Build 1412921 Wed Nov 18 09:43:45 MST 2015
+| Date         : Thu Feb 23 16:45:23 2017
+| Host         : LB-201702181206 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z010clg400-1
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_v_vid_in_axi4s_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of system_v_vid_in_axi4s_0_0 (xilinx.com:ip:v_vid_in_axi4s:4.0 (Rev. 1)) to current project options.
+
+
+
+
+
+
+Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2015.4 (win64) Build 1412921 Wed Nov 18 09:43:45 MST 2015
+| Date         : Tue Feb 21 23:05:29 2017
+| Host         : AFAAW-704030720 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg400-2
+------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_v_vid_in_axi4s_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the update of system_v_vid_in_axi4s_0_0 (xilinx.com:ip:v_vid_in_axi4s:4.0 (Rev. 1)) to current project options.
+
