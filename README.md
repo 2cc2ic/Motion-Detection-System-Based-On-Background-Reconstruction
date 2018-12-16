@@ -21,13 +21,10 @@ In our design, we focus on the optimization of processing pipeline, improve the 
 ![ip.jpg](https://github.com/zhanghaoqing/Motion-Detection-System-Based-On-Background-Reconstruction/blob/master/Picture/system%20structure/ip.jpg?raw=true)
 
 ***
-PS:
+**PS:**
 
-The Project folder contains the entire Project file
-**Project文件夹包含了整个工程文件**
+1. The Picture folder contains pictures about the project
+   **Picture文件夹包含了关于项目的图片**
 
-The Picture folder contains pictures about the project
-**Picture文件夹包含了关于项目的图片**
-
-The IP folder just contains the image processing IP
-**IP文件夹只是包含了图像处理IP**
+2. The IP folder just contains the image processing IP
+   **IP文件夹只是包含了图像处理IP**
