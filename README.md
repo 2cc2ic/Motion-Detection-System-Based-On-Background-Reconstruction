@@ -20,6 +20,12 @@ In our design, we focus on the optimization of processing pipeline, improve the 
 
 ![ip.jpg](https://github.com/zhanghaoqing/Motion-Detection-System-Based-On-Background-Reconstruction/blob/master/Picture/system%20structure/ip.jpg?raw=true)
 
+
+
+![技术特点.jpg](https://github.com/zhanghaoqing/Motion-Detection-System-Based-On-Background-Reconstruction/blob/master/Picture/system%20structure/%E6%8A%80%E6%9C%AF%E7%89%B9%E7%82%B9.jpg?raw=true)
+
+
+
 ***
 **PS:**
 
